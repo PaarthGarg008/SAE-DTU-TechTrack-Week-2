@@ -32,7 +32,7 @@ A Python command-line application that fetches real-time weather and air quality
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/PaarthGarg008/SAE-DTU-TechTrack-Week-2.git>
 cd WeatherDashboard
 ```
 
